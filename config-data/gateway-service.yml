@@ -16,8 +16,8 @@ spring:
         - id: mutant
           uri: lb://examenmagneto
           predicates:
-            - Path=/mutant/**
+            - Path=/mutant/
         - id: stats
           uri: lb://examenmagneto
           predicates:
-            - Path=/stats/**
+            - Path=/stats
