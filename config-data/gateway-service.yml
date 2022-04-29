@@ -14,10 +14,10 @@ spring:
           enabled: true
       routes:
         - id: mutant
-          uri: lb://mutant
+          uri: lb://examenmagneto
           predicates:
             - Path=/mutant/**
           - id: stats
-          uri: lb://stats
+          uri: lb://examenmagneto
           predicates:
             - Path=/stats/**
