@@ -45,7 +45,7 @@ Test-Automáticos, Code coverage > 80%.
 
 
 # Arquitectura
-![image](https://user-images.githubusercontent.com/59976584/166117756-682a2814-e127-47ac-860d-094ab7ce8091.png)
+![image](https://user-images.githubusercontent.com/59976584/166125204-dd85ddbc-cb9b-4693-9c08-df9d43839231.png)
 
 # Requerimientos
 - Java 11
