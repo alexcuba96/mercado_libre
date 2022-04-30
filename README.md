@@ -63,7 +63,7 @@ Test-Automáticos, Code coverage > 80%.
 - Lombok
 - Spring Boot - Bootstrapping
 - Gradle
-- 
+- Google Cloud
 
 # Pasos para la instalación del proyecto
 - Git clone al proyecto
