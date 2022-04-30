@@ -17,7 +17,7 @@ spring:
   # ===============================
   datasource:
     driverClassName: com.mysql.jdbc.Driver
-    url: jdbc:mysql://35.192.65.35/adn
+    url: jdbc:mysql://35.192.65.35:3306/adn
     username: root
     password: adndb
 
