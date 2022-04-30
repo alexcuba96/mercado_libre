@@ -16,11 +16,9 @@ spring:
   # DB
   # ===============================
   datasource:
-    url: jdbc:h2:mem:adnDB;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=FALSE
-    driverClassName: org.h2.Driver
-    platform: h2
-    username: sa
-    password:
+    url: jdbc:mysql://35.192.65.35/adn
+    username: root
+    password: adndb
 
   # ===============================
   # JPA / HIBERNATE
